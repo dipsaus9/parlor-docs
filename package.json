@@ -1,0 +1,20 @@
+{
+  "name": "parlor-docs",
+  "version": "1.0.0",
+  "description": "Documentatie voor Parlor",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build && rm -rf docs/ && cp -R .vuepress/dist/ docs/"
+  },
+  "keywords": [
+    "vue",
+    "documentation",
+    "fields",
+    "forms"
+  ],
+  "author": "dipsaus9",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  }
+}
