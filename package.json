@@ -4,7 +4,7 @@
   "description": "Documentatie voor Parlor",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build && rm -rf docs/ && cp -R .vuepress/dist/ docs/"
+    "build": "vuepress build"
   },
   "keywords": [
     "vue",
