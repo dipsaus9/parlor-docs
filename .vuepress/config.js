@@ -1,5 +1,6 @@
 module.exports = {
   head: [["link", { rel: "icon", href: "/logo.png" }]],
+  base: "/parlor/",
   title: "Parlor",
   themeConfig: {
     lastUpdated: "Laatste update",
