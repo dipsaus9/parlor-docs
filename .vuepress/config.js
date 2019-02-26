@@ -9,7 +9,6 @@ module.exports = {
         title: "Design brief",
         collapsable: false,
         children: [
-          ["design_brief/voorblad", "Voorblad"],
           "design_brief/introductie",
           "design_brief/probleem",
           "design_brief/stakeholders",
@@ -21,6 +20,6 @@ module.exports = {
         ]
       }
     ],
-    nav: [{ text: "Home", link: "/" }]
+    nav: [{ text: "Home", link: "/" }, { text: "Github", link: "https://github.com/dipsaus9/parlor"}]
   }
 };
