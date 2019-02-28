@@ -1,4 +1,4 @@
-# Kansen / trends
+# Kansen / Trends
 
 ### Sketch bestanden uitlezen (Technologisch)
 
