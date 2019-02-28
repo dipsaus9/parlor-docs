@@ -18,6 +18,13 @@ module.exports = {
           "design_brief/bronnen",
           "design_brief/bijlage"
         ]
+      },
+			{
+        title: "Planning",
+        collapsable: false,
+				children: [
+					"planning/planning"
+				]
       }
     ],
     nav: [{ text: "Home", link: "/" }, { text: "Github", link: "https://github.com/dipsaus9/parlor"}]
