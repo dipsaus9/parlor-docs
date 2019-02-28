@@ -27,6 +27,19 @@ module.exports = {
 				]
       }
     ],
-    nav: [{ text: "Home", link: "/" }, { text: "Github", link: "https://github.com/dipsaus9/parlor"}]
+    nav: [
+			{
+				text: "Home",
+				link: "/"
+			},
+			{
+				text: "Github",
+				link: "https://github.com/dipsaus9/parlor"
+			},
+			{
+				text: "Mijlpalen",
+				link: "https://github.com/dipsaus9/parlor/milestones?direction=asc&sort=due_date"
+			}
+		]
   }
 };

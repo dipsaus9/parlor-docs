@@ -22,4 +22,6 @@ f.van.kesteren@hva.nl
 Dennis Spierenburg  
 dennis@matise.nl
 
-De documentatie is te vinden op [https://parlor.netlify.com](https://parlor.netlify.com)
+[Documentatie](https://parlor.netlify.com)  
+[Planning / Mijlpalen](https://github.com/dipsaus9/parlor/milestones?direction=asc&sort=due_date)  
+[Taken](https://github.com/dipsaus9/parlor/issues)
